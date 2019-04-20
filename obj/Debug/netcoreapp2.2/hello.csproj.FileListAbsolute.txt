@@ -1,0 +1,11 @@
+/Users/matthewkelly/workspace/C#/test/hello/bin/Debug/netcoreapp2.2/hello.deps.json
+/Users/matthewkelly/workspace/C#/test/hello/bin/Debug/netcoreapp2.2/hello.runtimeconfig.json
+/Users/matthewkelly/workspace/C#/test/hello/bin/Debug/netcoreapp2.2/hello.runtimeconfig.dev.json
+/Users/matthewkelly/workspace/C#/test/hello/bin/Debug/netcoreapp2.2/hello.dll
+/Users/matthewkelly/workspace/C#/test/hello/bin/Debug/netcoreapp2.2/hello.pdb
+/Users/matthewkelly/workspace/C#/test/hello/obj/Debug/netcoreapp2.2/hello.csprojAssemblyReference.cache
+/Users/matthewkelly/workspace/C#/test/hello/obj/Debug/netcoreapp2.2/hello.csproj.CoreCompileInputs.cache
+/Users/matthewkelly/workspace/C#/test/hello/obj/Debug/netcoreapp2.2/hello.AssemblyInfoInputs.cache
+/Users/matthewkelly/workspace/C#/test/hello/obj/Debug/netcoreapp2.2/hello.AssemblyInfo.cs
+/Users/matthewkelly/workspace/C#/test/hello/obj/Debug/netcoreapp2.2/hello.dll
+/Users/matthewkelly/workspace/C#/test/hello/obj/Debug/netcoreapp2.2/hello.pdb
